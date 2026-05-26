@@ -16,6 +16,8 @@ The bundle is authored by Akshay Jain and is intended to be useful for researche
 - `ppt-executive-briefing`: Executive summaries, board decks, pitch decks, and leadership deck review.
 - `ppt-training-studio`: Training decks, workshops, learner activities, and instructional design review.
 
+FYI: `python-engineering-toolkit` and `julia-engineering-toolkit` both hand off final planning/review/verification workflows to `analysis-engineering-workflow`. Install `analysis-engineering-workflow` alongside either language toolkit for the intended end-to-end experience.
+
 ### Standalone Skill
 
 - `lowcode-ml-ui-patterns`: Low-code/no-code ML, analytics, workflow-builder, node-canvas, and data-science UI patterns.
