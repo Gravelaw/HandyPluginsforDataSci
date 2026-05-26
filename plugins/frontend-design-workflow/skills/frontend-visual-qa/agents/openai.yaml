@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Visual QA"
+  short_description: "Verify responsive UI with screenshots"
+  default_prompt: "Use $frontend-visual-qa to verify this frontend."

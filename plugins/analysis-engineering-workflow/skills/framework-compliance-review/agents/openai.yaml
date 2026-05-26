@@ -1,0 +1,4 @@
+interface:
+  display_name: "Framework Compliance Review"
+  short_description: "Standards-guided adversarial engineering review."
+  default_prompt: "Review this design or code against the governed engineering framework."

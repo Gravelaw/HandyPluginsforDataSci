@@ -1,0 +1,21 @@
+{
+  "name": "analysis-engineering-workflow",
+  "version": "0.2.0",
+  "description": "Framework-guided workflow skills for planning, architecture, implementation, execution, adversarial review, and debugging in Python and Julia ML/data/AI projects.",
+  "author": {
+    "name": "AkshayJain",
+    "email": "akshay.jain00@outlook.com",
+    "url": "https://github.com/Gravelaw"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Analysis Engineering Workflow",
+    "shortDescription": "Standards-guided planning, architecture, implementation, verification, review, and debugging.",
+    "longDescription": "Analysis Engineering Workflow provides Codex skills for governed ML, data science, AI engineering, system design, and software engineering workflows. Reviews are anchored to ISO/IEC/IEEE 12207, ISO/IEC/IEEE 15288, ISO/IEC/IEEE 42010, ISO/IEC 25010, SEI ATAM, NIST SSDF, OWASP ASVS/SAMM, NIST AI RMF, and NASA/JPL critical-code discipline.",
+    "developerName": "AkshayJain",
+    "category": "Productivity",
+    "capabilities": ["skills"],
+    "websiteURL": "https://github.com/Gravelaw",
+    "defaultPrompt": "Use the governed workflow skills to plan, architect, review, implement, verify, and debug this task."
+  }
+}

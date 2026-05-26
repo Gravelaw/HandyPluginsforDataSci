@@ -1,0 +1,27 @@
+{
+  "name": "ppt-executive-briefing",
+  "version": "0.1.0",
+  "description": "PowerPoint skills for executive summaries, pitch decks, boardroom decks, abstracts, and decision-ready briefings.",
+  "author": {
+    "name": "AkshayJain",
+    "email": "akshay.jain00@outlook.com",
+    "url": "https://github.com/Gravelaw"
+  },
+  "homepage": "https://support.microsoft.com/en-us/powerpoint",
+  "keywords": ["powerpoint", "executive-summary", "pitch-deck", "board-deck", "presentation-design"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PPT Executive Briefing",
+    "shortDescription": "Concise executive, pitch, boardroom, and abstract decks.",
+    "longDescription": "PPT Executive Briefing provides skills for short, high-signal PowerPoint decks. It emphasizes Pyramid Principle storylines, decision-first headlines, boardroom-ready summaries, investor/pitch narrative rhythm, clean charts, strong hierarchy, and artifact-tool PowerPoint production through the Presentations plugin.",
+    "developerName": "AkshayJain",
+    "category": "Productivity",
+    "capabilities": ["skills"],
+    "websiteURL": "https://github.com/Gravelaw",
+    "defaultPrompt": [
+      "Create an executive summary deck.",
+      "Build a pitch deck narrative.",
+      "Review this board deck."
+    ]
+  }
+}

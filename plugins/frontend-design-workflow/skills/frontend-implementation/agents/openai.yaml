@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Implementation"
+  short_description: "Implement polished accessible frontends"
+  default_prompt: "Use $frontend-implementation to build this interface."

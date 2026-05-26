@@ -1,0 +1,27 @@
+{
+  "name": "ppt-training-studio",
+  "version": "0.1.0",
+  "description": "PowerPoint skills for training decks, workshops, courses, lessons, job aids, exercises, and learner-centered slide design.",
+  "author": {
+    "name": "AkshayJain",
+    "email": "akshay.jain00@outlook.com",
+    "url": "https://github.com/Gravelaw"
+  },
+  "homepage": "https://support.microsoft.com/en-us/powerpoint",
+  "keywords": ["powerpoint", "training", "learning-design", "instructional-design", "presentation-design"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PPT Training Studio",
+    "shortDescription": "Training, workshop, and learning PowerPoint decks.",
+    "longDescription": "PPT Training Studio provides skills for learner-centered PowerPoint decks. It uses cognitive-load management, multimedia learning principles, accessibility, practice design, knowledge checks, facilitator notes, visuals, video guidance, and artifact-tool PowerPoint production through the Presentations plugin.",
+    "developerName": "AkshayJain",
+    "category": "Productivity",
+    "capabilities": ["skills"],
+    "websiteURL": "https://github.com/Gravelaw",
+    "defaultPrompt": [
+      "Create a training deck.",
+      "Build a workshop slide plan.",
+      "Review this course deck."
+    ]
+  }
+}

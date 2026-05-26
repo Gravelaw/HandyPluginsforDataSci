@@ -1,0 +1,4 @@
+interface:
+  display_name: "debug-test-failures"
+  short_description: "Workflow skill for debug-test-failures."
+  default_prompt: "Use debug-test-failures for the current coding task."

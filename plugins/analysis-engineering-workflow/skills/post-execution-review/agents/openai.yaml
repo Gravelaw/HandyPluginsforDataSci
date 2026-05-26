@@ -1,0 +1,4 @@
+interface:
+  display_name: "post-execution-review"
+  short_description: "Workflow skill for post-execution-review."
+  default_prompt: "Use post-execution-review for the current coding task."

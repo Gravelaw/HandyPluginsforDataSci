@@ -1,0 +1,4 @@
+interface:
+  display_name: "execute-verify"
+  short_description: "Workflow skill for execute-verify."
+  default_prompt: "Use execute-verify for the current coding task."

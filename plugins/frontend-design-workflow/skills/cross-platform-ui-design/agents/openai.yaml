@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cross-Platform UI Design"
+  short_description: "Design web and desktop app interfaces"
+  default_prompt: "Use $cross-platform-ui-design to design this cross-platform UI."

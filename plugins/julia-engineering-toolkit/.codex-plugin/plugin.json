@@ -1,0 +1,27 @@
+{
+  "name": "julia-engineering-toolkit",
+  "version": "0.1.0",
+  "description": "Julia skills for software engineering, data science, ML, debugging, Pkg environments, and verification.",
+  "author": {
+    "name": "AkshayJain",
+    "email": "akshay.jain00@outlook.com",
+    "url": "https://github.com/Gravelaw"
+  },
+  "homepage": "https://docs.julialang.org/en/v1/",
+  "keywords": ["julia", "software-engineering", "data-science", "machine-learning", "debugging"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Julia Engineering Toolkit",
+    "shortDescription": "Julia coding, data science, Pkg, testing, performance, and debugging skills.",
+    "longDescription": "Julia Engineering Toolkit packages Julia-specific Codex skills for software engineers and data scientists. It follows official Julia and Pkg documentation for project environments, Project.toml and Manifest.toml, code loading, modules, style, performance, tests, logging, profiling, and package workflows. After the Julia-specific pass, it hands off exactly once to Analysis Engineering Workflow for governed planning, architecture, implementation, verification, review, or debugging.",
+    "developerName": "AkshayJain",
+    "category": "Productivity",
+    "capabilities": ["skills"],
+    "websiteURL": "https://github.com/Gravelaw",
+    "defaultPrompt": [
+      "Set up a Julia data science project.",
+      "Review and debug this Julia code.",
+      "Design a Julia ML workflow."
+    ]
+  }
+}

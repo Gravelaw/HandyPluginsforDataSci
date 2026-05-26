@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Architecture"
+  short_description: "Structure frontend apps and design systems"
+  default_prompt: "Use $frontend-architecture to design the frontend architecture."

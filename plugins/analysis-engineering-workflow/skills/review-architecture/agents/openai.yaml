@@ -1,0 +1,4 @@
+interface:
+  display_name: "review-architecture"
+  short_description: "Workflow skill for review-architecture."
+  default_prompt: "Use review-architecture for the current coding task."

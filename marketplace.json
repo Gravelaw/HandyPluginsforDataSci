@@ -1,0 +1,92 @@
+{
+  "name": "handy-plugins-for-data-sci",
+  "interface": {
+    "displayName": "Handy Plugins for DataSci"
+  },
+  "plugins": [
+    {
+      "name": "analysis-engineering-workflow",
+      "source": {
+        "source": "local",
+        "path": "./plugins/analysis-engineering-workflow"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "python-engineering-toolkit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/python-engineering-toolkit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "julia-engineering-toolkit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/julia-engineering-toolkit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "frontend-design-workflow",
+      "source": {
+        "source": "local",
+        "path": "./plugins/frontend-design-workflow"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "ppt-technical-playbook",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ppt-technical-playbook"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "ppt-executive-briefing",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ppt-executive-briefing"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "ppt-training-studio",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ppt-training-studio"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

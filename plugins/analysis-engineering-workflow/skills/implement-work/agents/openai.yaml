@@ -1,0 +1,4 @@
+interface:
+  display_name: "implement-work"
+  short_description: "Workflow skill for implement-work."
+  default_prompt: "Use implement-work for the current coding task."

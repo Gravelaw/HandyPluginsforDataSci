@@ -1,0 +1,27 @@
+{
+  "name": "ppt-technical-playbook",
+  "version": "0.1.0",
+  "description": "PowerPoint skills for detailed technical playbooks, engineering deep dives, architecture reviews, and appendix-heavy decks.",
+  "author": {
+    "name": "AkshayJain",
+    "email": "akshay.jain00@outlook.com",
+    "url": "https://github.com/Gravelaw"
+  },
+  "homepage": "https://support.microsoft.com/en-us/powerpoint",
+  "keywords": ["powerpoint", "technical-playbook", "engineering", "architecture", "presentation-design"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PPT Technical Playbook",
+    "shortDescription": "Detailed technical PowerPoint playbooks and engineering deep dives.",
+    "longDescription": "PPT Technical Playbook provides skills for highly detailed, evidence-led technical PowerPoint decks. It combines assertion-evidence slide design, architecture/playbook structure, appendix discipline, accessibility checks, and artifact-tool PowerPoint production through the Presentations plugin.",
+    "developerName": "AkshayJain",
+    "category": "Productivity",
+    "capabilities": ["skills"],
+    "websiteURL": "https://github.com/Gravelaw",
+    "defaultPrompt": [
+      "Create a technical playbook deck.",
+      "Turn this architecture into slides.",
+      "Review this technical deck."
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "frontend-design-workflow",
+  "version": "0.1.0",
+  "description": "Framework-guided UI/UX and frontend design skills for web, desktop, and cross-platform product interfaces.",
+  "author": {
+    "name": "AkshayJain",
+    "email": "akshay.jain00@outlook.com",
+    "url": "https://github.com/Gravelaw"
+  },
+  "keywords": [
+    "frontend",
+    "ui",
+    "ux",
+    "design-system",
+    "accessibility",
+    "desktop",
+    "cross-platform"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Frontend Design Workflow",
+    "shortDescription": "Plan, build, and verify accessible web and desktop UI.",
+    "longDescription": "Frontend Design Workflow provides Codex skills for broad UI/UX and frontend design work across web apps, Windows and macOS desktop apps, SaaS tools, dashboards, internal productivity software, consumer products, and cross-platform interfaces. It covers UX strategy, information architecture, design systems, frontend architecture, accessibility review, implementation, platform adaptation, and visual QA.",
+    "developerName": "AkshayJain",
+    "category": "Productivity",
+    "capabilities": [
+      "skills"
+    ],
+    "websiteURL": "https://github.com/Gravelaw",
+    "defaultPrompt": [
+      "Use the frontend design skills to plan and build this UI.",
+      "Review this frontend for accessibility and design quality.",
+      "Design a polished cross-platform app interface."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

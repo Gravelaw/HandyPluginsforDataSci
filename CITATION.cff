@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use HandyPluginsforDataSci in research, please cite it using this metadata."
+title: "HandyPluginsforDataSci: Codex plugins and skills for data science, frontend design, and presentation workflows"
+authors:
+  - family-names: "Jain"
+    given-names: "Akshay"
+repository-code: "https://github.com/Gravelaw/HandyPluginsforDataSci"
+url: "https://github.com/Gravelaw/HandyPluginsforDataSci"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-05-26"
+keywords:
+  - "Codex"
+  - "plugins"
+  - "skills"
+  - "data science"
+  - "ML engineering"
+  - "frontend design"
+  - "presentations"
+abstract: "A community bundle of Codex plugins and skills for governed analysis engineering, Python and Julia data science, frontend UI/UX design, and presentation workflows."

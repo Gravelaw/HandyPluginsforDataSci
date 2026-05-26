@@ -1,0 +1,4 @@
+interface:
+  display_name: "Low-Code ML UI Patterns"
+  short_description: "Design workflow builders for ML tools"
+  default_prompt: "Use $lowcode-ml-ui-patterns to design this ML workflow UI."

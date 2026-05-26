@@ -1,0 +1,4 @@
+interface:
+  display_name: "architect-work"
+  short_description: "Workflow skill for architect-work."
+  default_prompt: "Use architect-work for the current coding task."

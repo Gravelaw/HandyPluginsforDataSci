@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Design Plan"
+  short_description: "Plan UX strategy for frontend products"
+  default_prompt: "Use $frontend-design-plan to plan a frontend design workflow."

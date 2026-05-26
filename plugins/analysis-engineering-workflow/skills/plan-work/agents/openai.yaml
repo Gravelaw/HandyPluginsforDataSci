@@ -1,0 +1,4 @@
+interface:
+  display_name: "plan-work"
+  short_description: "Workflow skill for plan-work."
+  default_prompt: "Use plan-work for the current coding task."

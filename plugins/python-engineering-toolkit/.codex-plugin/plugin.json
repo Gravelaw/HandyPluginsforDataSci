@@ -1,0 +1,27 @@
+{
+  "name": "python-engineering-toolkit",
+  "version": "0.1.0",
+  "description": "Python skills for software engineering, data science, ML, AI engineering, debugging, packaging, and verification.",
+  "author": {
+    "name": "AkshayJain",
+    "email": "akshay.jain00@outlook.com",
+    "url": "https://github.com/Gravelaw"
+  },
+  "homepage": "https://docs.python.org/3/",
+  "keywords": ["python", "software-engineering", "data-science", "machine-learning", "debugging"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Python Engineering Toolkit",
+    "shortDescription": "Python coding, data science, packaging, testing, and debugging skills.",
+    "longDescription": "Python Engineering Toolkit packages Python-specific Codex skills for software engineers and data scientists. It follows official Python documentation and Python Packaging guidance for virtual environments, pyproject.toml, dependency groups, tests, typing, logging, debugging, and profiling. After the Python-specific pass, it hands off exactly once to Analysis Engineering Workflow for governed planning, architecture, implementation, verification, review, or debugging.",
+    "developerName": "AkshayJain",
+    "category": "Productivity",
+    "capabilities": ["skills"],
+    "websiteURL": "https://github.com/Gravelaw",
+    "defaultPrompt": [
+      "Set up a Python data science project.",
+      "Review and debug this Python code.",
+      "Design a Python ML pipeline."
+    ]
+  }
+}
