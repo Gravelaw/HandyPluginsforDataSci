@@ -1,7 +1,7 @@
 # HandyPluginsforDataSci
 
 HandyPluginsforDataSci is a community bundle of Codex plugins and skills for data science, analysis engineering, frontend design, and presentation workflows.
-
+It is still under progress. Hopefully, I would like to continue to add skills (1-2 on a weekly basis) post research on topics 
 The bundle is authored by Akshay Jain and is intended to be useful for researchers, data scientists, ML engineers, AI engineers, analysts, and builders who want reusable Codex workflow guidance.
 
 ## What Is Included
