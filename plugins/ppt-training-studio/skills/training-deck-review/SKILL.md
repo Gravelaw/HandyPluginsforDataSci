@@ -1,25 +1,24 @@
 ---
 name: training-deck-review
-description: Review PowerPoint training, workshop, course, onboarding, tutorial, and lesson decks for instructional design, cognitive load, learning outcomes, activity design, accessibility, visuals, video use, and learner readiness.
+description: Review PowerPoint training, workshop, course, onboarding, tutorial, and lesson decks for instructional design, concept depth, cognitive load, learning outcomes, activity design, feedback, accessibility, visuals, source figures, video use, and learner readiness.
 ---
 
 # Training Deck Review
 
-Use this skill to critique training decks.
+Use this skill to critique training decks. Findings come first.
 
 Read `../../references/training-deck-design.md` for the rubric.
 
-## Findings First
-
-Prioritize:
+## Findings Priority
 
 1. Missing or unmeasurable learning outcomes.
-2. Cognitive overload or excessive text.
-3. Missing practice, feedback, or knowledge checks.
-4. Visuals that do not support learning.
-5. Activity instructions that learners cannot execute.
-6. Accessibility gaps: contrast, alt text, captions, inclusive examples.
-7. Inconsistent theme or learning-mode markers.
+2. Concept scope too broad for training depth.
+3. Cognitive overload or excessive lecture text.
+4. Missing practice, feedback, debrief, or knowledge checks.
+5. Visuals that do not support learning or missing visuals where the concept needs them.
+6. Activity instructions learners cannot execute.
+7. Domain theme, mode markers, icon system, or example style inconsistency.
+8. Accessibility gaps: contrast, alt text, captions, inclusive examples.
 
 ## Output
 

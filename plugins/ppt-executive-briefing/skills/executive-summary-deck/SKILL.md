@@ -1,6 +1,6 @@
 ---
 name: executive-summary-deck
-description: Create or redesign concise executive summary PowerPoint decks, board updates, leadership briefings, abstracts, one-pagers, decision decks, operating reviews, and short strategy narratives.
+description: Create or redesign concise executive summary PowerPoint decks, board updates, leadership briefings, abstracts, one-pagers, decision decks, operating reviews, and short strategy narratives with domain-specific visual polish and sourced proof.
 ---
 
 # Executive Summary Deck
@@ -14,26 +14,17 @@ Read `../../references/executive-briefing-design.md` for substantial work. Read 
 1. Identify the decision, ask, or executive question.
 2. Write the answer first in one sentence.
 3. Build the pyramid: answer, 3-5 supports, proof, risks, decision/next step.
-4. Choose 5-12 slides unless the user asks for a different length.
-5. Put detail in appendix or notes.
-6. Use chart-first or visual-first slides when they prove the claim faster than prose.
-7. If producing `.pptx`, invoke the `Presentations` skill once after this strategy is set.
-
-## Core Slide Types
-
-- Situation and decision.
-- Recommendation.
-- Evidence snapshot.
-- Option comparison.
-- Financial or KPI bridge.
-- Roadmap or operating model.
-- Risks and mitigations.
-- Decision / ask.
+4. Lock a domain visual system: palette, chart grammar, icon style, image style, footer/source treatment, and chapter rhythm.
+5. Choose 5-12 slides unless the user asks for a different length.
+6. Use chart-first, image-first, or evidence-first slides when they prove the claim faster than prose.
+7. Put detail in appendix or notes.
+8. If producing `.pptx`, invoke the `Presentations` skill once after this strategy is set.
 
 ## Reject
 
 - Topic titles that do not say the point.
-- Overloaded charts.
+- Generic theme for a domain-specific decision.
+- Unsupported or unsourced claims.
 - Decorative icon grids.
 - Unclear ask.
 - Appendix material in the core story.

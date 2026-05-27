@@ -11,6 +11,12 @@ Handoff exactly once:
 Production expectations:
 
 - Use editable PowerPoint output, not flat screenshots.
+- Lock a visual brief before building: domain theme, palette, typography, icon family, diagram grammar, image style, and source/footer treatment.
+- Create an asset/proof-object plan before building: which slides use screenshots, source figures, photos, charts, maps, icons, or rich editable diagrams.
+- If the topic has useful public research figures, standards diagrams, flow charts, product screenshots, or domain images, use verified/open/user-provided assets directly when allowed; otherwise recreate the concept as an original editable diagram and cite the source.
+- Use icons intentionally as semantic labels or learning-mode markers. Keep one icon family and stroke weight.
+- Use rendered previews and layout inspection to catch off-center arrows, misaligned connectors, clipped text, inconsistent spacing, and color-only encodings.
+- A deck over 8 slides should not be lecture-text-only unless the user explicitly requests a barebones draft.
 - Render previews and inspect contact sheets before final handoff.
 - Keep final deliverables separate from scratch files.
 - Preserve template fidelity when the user supplies a source deck.
