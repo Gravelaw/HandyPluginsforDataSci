@@ -1,34 +1,25 @@
 ---
 name: technical-deck-review
-description: Review detailed technical PowerPoint decks for clarity, correctness, evidence quality, architecture communication, visual hierarchy, accessibility, appendix structure, charts, diagrams, icons, media, and production readiness.
+description: Review detailed technical PowerPoint decks for clarity, correctness, evidence quality, architecture communication, visual hierarchy, domain theming, accessibility, appendix structure, charts, diagrams, icons, media, source figures, and production readiness.
 ---
 
 # Technical Deck Review
 
-Use this skill to critique or QA a technical deck.
+Use this skill to critique or QA a technical deck. Findings come first.
 
 Read `../../references/technical-playbook-design.md` for the review rubric.
 
-## Findings First
-
-Prioritize issues in this order:
+## Findings Priority
 
 1. Technical correctness or misleading claims.
-2. Missing evidence for a headline.
-3. Diagram or chart ambiguity.
-4. Unreadable density, tiny type, or poor contrast.
-5. Weak appendix/source traceability.
-6. Inconsistent theme, icon, chart, or layout system.
-7. Accessibility failures.
+2. Missing evidence/proof object for a headline.
+3. Missing domain theme, relevant images, source figures, screenshots, or rich diagrams.
+4. Diagram or chart ambiguity, including off-center arrows and unlabeled connectors.
+5. Unreadable density, tiny type, poor contrast, or color-only status.
+6. Weak appendix/source traceability.
+7. Inconsistent icon, chart, shape, layout, or footer system.
+8. Accessibility failures.
 
-## Review Output
+## Output
 
-For each finding, include:
-
-- Severity: P0, P1, P2, P3.
-- Slide or section.
-- Problem.
-- Impact.
-- Fix.
-
-End with a gate decision: pass, pass with conditions, or block.
+For each finding, include severity, slide/section, problem, impact, and fix. End with a gate decision: pass, pass with conditions, or block.
